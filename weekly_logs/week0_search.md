@@ -2,9 +2,11 @@
 
 ## Progress
 
-- Completed Lecture 0 over two sessions.
-- Completed Project 0 over two sessions.
-- Submitted Project 0 successfully with optional Alpha-Beta Pruning implemented.
+- Completed Lecture 0 [2026-05-20].
+- Completed Project 0 - degrees [2026-05-21].
+- Completed Project 0 - tictactoe [2025-05-22].
+- Completed Project 0 - tictactoe with optional Alpha-Beta Pruning implementation [2025-05-23].
+
 
 ## Key Concept
 - **Depth-First Search vs Breadth-First Search**: DFS will exhausts the entire depth of a branch and then go on to the next one, while BFS will explore all the shallowest layer of actions then go on to one level deeper. DFS uses `Stack` (Last-in-first-out) data structure. BFS uses `Queue` (First-in-first-out) data structure.
