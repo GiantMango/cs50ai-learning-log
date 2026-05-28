@@ -1,4 +1,4 @@
-# Week 0 - Search
+# [Week 0 - Search](https://cs50.harvard.edu/ai/weeks/0/)
 
 ## Progress
 
