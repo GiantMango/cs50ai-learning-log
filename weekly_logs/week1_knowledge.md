@@ -29,7 +29,7 @@
 - **First-Order Logic**: In first-order logic, there are two types of symbols - constant symbols and predicate symbols. It's a different way than propositional logic to describe things.
 
 
-## What I've learned..
+## What I've learned...
 I had heard about propositional logic when I was in middle school. It sounded like just common sense. And after this lecture, I feel like logic can get very intimidating and complicated real quick. Think about the house.py, when we represent all the things with propositional logic, look how the output returns out. I came to this lecture not knowing what I would have seen. And this give me a new perspective to see through politicians lies. I didn't know we can tweak logics like this using all the inference rules. And what I used my brain juice the most was during the minesweeper project. I looked at the structure and try to understand how an AI is implemented in a simple game like this. I also did the same thing for the tictactoe project in week 0. I do find some similarities in these two projects. They both have a runner.py file to actually put up the game in pygame and shows the windows with the buttons and stuff. And in an additional file, tictactoe.py or minesweeper.py is the actual logic behind the game. Using object-oriented programming would help modularizing the algorithm and make them more maintainable and easier to debug.
 
 ## Challenges
