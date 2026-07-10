@@ -15,4 +15,5 @@ Date: June 2026
 - [Lecture 6: Language](/weekly_logs/week6_language.md)
 
 **What's next?**
+
 I'm going to take CS50 cybersecurity and use it as an introduction to the cybersecurity career, see if I like it. I'll see you in there.
